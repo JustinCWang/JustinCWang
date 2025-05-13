@@ -1,6 +1,6 @@
 ## Hi, I'm Justin! 👋
 
-![Banner](./Boston_Banner/.png)
+![Banner](./Boston_Banner.png)
 
 <h3 align="center">
   <b>Computer Science student at Boston University 🎓</b>
