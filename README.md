@@ -23,12 +23,12 @@
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=6)](https://github.com/JustinCWang)
 
 #### Backend:
-[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,fastapi,supabase,&perline=6)](https://github.com/JustinCWang)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,mongodb,fastapi,supabase&perline=6)](https://github.com/JustinCWang)
 
 <!-- AI Tools Section -->
 
 #### DevOps & Tools:
-[![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,vscode,windows,powershell,anaconda,notion,npm,docker,latex,postman,pc&perline=6)](https://github.com/JustinCWang)
+[![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,vscode,windows,powershell,anaconda,notion,npm,docker,latex,postman,pycharm&perline=6)](https://github.com/JustinCWang)
 
 #### Additional Tools:
 [![My Skills](https://skillicons.dev/icons?i=unity&perline=6)](https://github.com/JustinCWang)
