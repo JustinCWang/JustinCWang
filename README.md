@@ -28,7 +28,7 @@
 <!-- AI Tools Section -->
 
 #### DevOps & Tools:
-[![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,vscode,windows,powershell,anaconda,notion,npm,docker,latex,postman,&perline=6)](https://github.com/JustinCWang)
+[![My Skills](https://skillicons.dev/icons?i=vercel,git,github,gitlab,vscode,windows,powershell,anaconda,notion,npm,docker,latex,postman,pc&perline=6)](https://github.com/JustinCWang)
 
 #### Additional Tools:
 [![My Skills](https://skillicons.dev/icons?i=unity&perline=6)](https://github.com/JustinCWang)
