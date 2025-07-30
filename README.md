@@ -3,7 +3,7 @@
 ![Banner](./Boston_Banner.png)
 
 <h3 align="center">
-  <b>Computer Science student at Boston University 🎓</b>
+  <b>BA/MS Computer Science student at Boston University 🎓</b>
 </h3>
 <h3 align="center">
   <b>Passionate about learning and creating fun and impactful software!</b>
@@ -13,6 +13,7 @@
 - 🔬 I'm currently doing **Control** Research and exploring **AI Safety**
 - 🎴 Fun Fact: I'm an avid Pokémon TCG player and collector!
 - 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/jcwang27)
+- 😄 Learn more about me on my [personal website](https://https://www.justincwang.me)!
 
 ### Languages and Tools:
 
