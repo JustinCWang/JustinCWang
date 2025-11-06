@@ -18,7 +18,7 @@
 ### Languages and Tools:
 
 #### Programming Languages:
-[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,go,cs,c&perline=6)](https://github.com/JustinCWang)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,python,java,go,cs,c,ocaml&perline=6)](https://github.com/JustinCWang)
 
 #### Frontend:
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,figma&perline=6)](https://github.com/JustinCWang)
