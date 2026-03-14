@@ -10,8 +10,8 @@
 </h3>
 
 - 📚 I'm currently learning **AI/ML**, **InfoSec**, and **Software Development**
-- 🔬 I'm currently doing **Control** Research and exploring **AI Safety**
-- 🎴 Fun Fact: I'm an avid Pokémon TCG player and collector!
+- 🔬 I'm currently exploring **AI Safety** and **Computer Vision**
+- 🎴 Fun Fact: I love competing in Pokémon TCG tournaments and other TCGs!
 - 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/jcwang27)
 - 😄 Learn more about me on my [personal website](https://https://www.justincwang.me)!
 
