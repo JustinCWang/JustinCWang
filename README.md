@@ -13,7 +13,7 @@
 - 🔬 I'm currently exploring **AI Safety** and **Computer Vision**
 - 🎴 Fun Fact: I love competing in Pokémon TCG tournaments and other TCGs!
 - 🌐 Let's connect on [LinkedIn](https://www.linkedin.com/in/jcwang27)
-- 😄 Learn more about me on my [personal website](https://https://www.justincwang.me)!
+- 😄 Learn more about me on my [personal website](https://www.justincwang.me)!
 
 ### Languages and Tools:
 
